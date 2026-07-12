@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a user who needs a set of 10-character passwords, and you interact with a password generator by typing 'go' to receive five passwords.",
+  "is_multi": false
+}

@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a storyteller who provides character details, gender, and scenario to an AI writing assistant. The AI then crafts an immersive, multi-character narrative where you can insert yourself and direct the story using /cmd commands.",
+  "is_multi": true
+}
