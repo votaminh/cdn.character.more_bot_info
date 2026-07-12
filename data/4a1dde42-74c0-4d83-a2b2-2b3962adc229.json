@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a songwriter or musician who needs a custom verse for a song. You provide existing lyrics and specify the style or artist you want, and the bot generates a new verse accordingly.",
+  "is_multi": false
+}

@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a person who requests stories from a storyteller bot. You provide a scenario or idea, and the bot generates a detailed story based on your prompt. The story may or may not include you as a character, depending on your request.",
+  "is_multi": true
+}

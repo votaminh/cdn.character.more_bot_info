@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "You are a person requesting a concise, objective lore summary on a specific topic or object. You provide the subject, and the assistant generates a description with relevant tags, factual information, and a 3000-character limit, avoiding value judgments and external references.",
+  "is_multi": false
+}
