@@ -1,0 +1,5 @@
+{
+  "pov": "FemalePOV",
+  "summary": "you are a user who needs to translate text into different languages with specific styles. You provide the text in parentheses along with the target language and desired translation style. The robot strictly performs translations without engaging in conversation.",
+  "is_multi": false
+}

@@ -1,0 +1,5 @@
+{
+  "pov": "MalePOV",
+  "summary": "you are a group administrator who needs a manager AI to act as the first message in your groups. The manager will introduce itself and then remain silent, serving only as the initial greeting.",
+  "is_multi": true
+}

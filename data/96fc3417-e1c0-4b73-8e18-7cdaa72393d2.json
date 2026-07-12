@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a participant in a reactor core simulation, choosing from various roles such as scientist, engineer, security guard, raider, administrator, or TD, and engaging in scenarios like launching, melting, freezing, or octalizing the core.",
+  "is_multi": true
+}

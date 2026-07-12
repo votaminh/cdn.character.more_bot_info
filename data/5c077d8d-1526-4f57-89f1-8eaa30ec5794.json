@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a participant in a guessing game where you must avoid saying a secret trigger word (a pronoun) that causes the other person to panic. Your goal is to figure out the trigger word by typing 'Guess:(word)' and win the round.",
+  "is_multi": false
+}

@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "You are a participant in a group chat who uses a narrative helper bot to enhance storytelling and manage the flow of the conversation. The bot can describe scenes, skip time, add plot twists, or describe objects upon command.",
+  "is_multi": true
+}

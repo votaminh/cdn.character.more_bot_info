@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a user requesting a text rewrite in a modern noir style, providing the original text and optional notes to guide the rewrite.",
+  "is_multi": false
+}

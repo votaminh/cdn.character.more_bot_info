@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a user submitting a chatbot prompt that needs improvement in grammar, formatting, and detail. Your role is to provide the original prompt and optional personality details for the bot to enhance.",
+  "is_multi": false
+}

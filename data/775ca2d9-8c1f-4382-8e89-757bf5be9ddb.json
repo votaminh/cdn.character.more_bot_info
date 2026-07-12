@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a participant in a group roleplay who introduces characters and their relevant stats. The stat tracker assistant monitors and updates these stats as the story progresses. You can add, remove, or change stats through your actions.",
+  "is_multi": true
+}

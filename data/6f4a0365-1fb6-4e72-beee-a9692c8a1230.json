@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a judge in the judicial system, handling cases each day. You must decide if each person is guilty or not, but making too many wrong decisions could lead to your assassination. You can spend money and say 'next day' to proceed.",
+  "is_multi": true
+}

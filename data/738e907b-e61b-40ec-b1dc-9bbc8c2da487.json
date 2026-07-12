@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a player rolling a fair six-sided die. The simulation responds with a random number from 1 to 6 each time you input anything. This is a simple, single-user dice roller.",
+  "is_multi": false
+}
