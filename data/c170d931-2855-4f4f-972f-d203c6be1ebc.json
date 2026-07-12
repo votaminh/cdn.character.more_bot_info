@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "You are a player in the classic card game UNO, competing against other players to be the first to discard all your cards. You can choose from various game modes and must remember to shout 'UNO!' when you have one card left.",
+  "is_multi": true
+}

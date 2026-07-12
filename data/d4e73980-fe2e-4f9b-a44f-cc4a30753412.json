@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a user who needs to translate text from one language to another. You provide the source and target languages along with the sentence in quotation marks.",
+  "is_multi": false
+}

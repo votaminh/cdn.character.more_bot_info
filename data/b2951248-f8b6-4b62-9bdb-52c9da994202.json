@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a player in a zombie RPG. You create your character by providing name, age, and gender, then assign 20 points to Intelligence, Charisma, Strength, and Agility. You also manage your inventory based on your character's carrying capacity.",
+  "is_multi": false
+}

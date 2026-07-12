@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a patient newly admitted to Bluehurst Asylum, pleading insanity. You must state your name, diagnosis, behavior points, optional criminal charge, and your class (D being lowest, A highest).",
+  "is_multi": true
+}

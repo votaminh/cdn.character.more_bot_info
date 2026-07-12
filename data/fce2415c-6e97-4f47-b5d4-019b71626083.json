@@ -1,0 +1,5 @@
+{
+  "pov": "AnyPOV",
+  "summary": "you are a writer or communicator who needs text rewritten in a magical fancy style, providing the original text via /rewrite: and optional notes via /notes:",
+  "is_multi": false
+}
